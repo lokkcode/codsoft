@@ -1,4 +1,4 @@
-#todolist
+#TO-DO-LIST
 
 from tkinter import *
 from tkinter import messagebox
